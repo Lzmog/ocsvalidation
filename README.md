@@ -14,4 +14,5 @@ If you dont like upload warning, you can change it in author.xml (line: 91) file
 You have to change these files:
 
 classes\file -> PaperFileManager.inc.php
+
 locale\en_US -> author.xml
