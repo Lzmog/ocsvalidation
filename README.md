@@ -1,7 +1,7 @@
 # ocsvalidation
 ocs pkp 2.3.6 validation
 
-This validation works only for author submission.
+This validation works only with the submission process of authors' files.
 
 At this moment you can upload only .doc and .docx files.
 
