@@ -17,3 +17,7 @@ classes\file -> PaperFileManager.inc.php
 
 locale\en_US -> author.xml
 
+templates\author\submit -> suppFile.tpl
+
+templates\author\submit -> step2.tpl
+
